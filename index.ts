@@ -68,6 +68,6 @@ function testClaseEdificio(): void {
 
 function main() {
   testClaseEdificio();
-  console.log("un cambio");
+  console.log("vino otro caon y que le menea al codigo");
 }
 main();
