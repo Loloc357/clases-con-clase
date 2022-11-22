@@ -69,5 +69,6 @@ function testClaseEdificio(): void {
 function main() {
   testClaseEdificio();
   console.log("vino otro caon y que le menea al codigo");
+  console.log("quiobo haciendo el repaso")
 }
 main();
